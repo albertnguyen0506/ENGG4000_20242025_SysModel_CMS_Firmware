@@ -1,2 +1,2 @@
 # ENGG4000_Test
-Code for testing the PCBs - ENGG4000
+Firmware package for the Cell Management System CMS to be imported into CCS Cloud
